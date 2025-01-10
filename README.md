@@ -30,6 +30,9 @@
      
    ![](images/Screenshot_20250109_202414_Settings.png)
 
+   - Lastly but very important to `Allow` or `On` the `Appear on top` or `Display over other apps` setting for `Termux`.
+
+   ![](images/Screenshot_20250109_212656_Settings.jpg)
    
 
 5. Edit your config.json and then this readme to include your own fork.

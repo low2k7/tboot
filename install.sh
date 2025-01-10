@@ -9,7 +9,7 @@ run_update_and_upgrade() {
 
 install_packages() {
     echo "INSTALLING DEPENDENCIES..."
-    yes | pkg install libjansson git wget nano jq -y
+    yes | pkg install libjansson wget nano -y
 }
 
 make_folders() {

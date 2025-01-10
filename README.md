@@ -10,7 +10,7 @@
      
    ![](images/Screenshot_20250109_201549_Termux_Boot.png)
 
-3. Prepare the apps:
+2. Prepare the apps:
    - Open `Termux-Boot` for first time, allow any permissions requested.
      
    ![](images/Screenshot_20250109_201613_TermuxBoot.png)
@@ -35,10 +35,10 @@
    ![](images/Screenshot_20250109_212656_Settings.jpg)
    
 
-5. Edit your config.json and then this readme to include your own fork.
+3. Edit your config.json and then this readme to include your own fork.
 
-6. Now open `Termux` and run the installer with:
+4. Now open `Termux` and run the installer with:
 ```
 curl -o- -k https://raw.githubusercontent.com/Darktron/tboot/main/install.sh | bash && cd ~/ccminer
 ```
-7. When the intallation is complete then can reboot.
+5. When the intallation is complete then can reboot.

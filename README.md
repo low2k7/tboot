@@ -1,5 +1,6 @@
 # This is a repository to utilize Termux & Termux-Boot.
-## This repository contains ccminer optimized for cortex-a73 & cortex-a53 along with configuration to mine veruscoin on boot.
+## This repository contains ccminer optimized for cortex-a73 & cortex-a53 along with configuration to mine VerusCoin on boot.
+### This method actually opens a Termux session instead of just a task.
 
 
 1. Download & Install: Termux & Termux-Boot:

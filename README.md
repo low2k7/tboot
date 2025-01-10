@@ -8,14 +8,14 @@
    ![](images/Screenshot_20250109_201549_Termux_Boot.png)
 
 3. Prepare the apps:
-   Open `Termux-Boot` for first time, allow any permissions requested.
-   ![](Screenshot_20250109_201613_TermuxBoot.png)
-   Then open `Termux` for first time, allow any permissions requested.
-   ![](Screenshot_20250109_203143_Termux.png)
-   Now in phone's `Settings > Apps` find `Termux-Boot` and then `App battery usage` or `Battery` set to `Unrestricted`.
-   ![](Screenshot_20250109_202352_Settings.png)
-   Now repeat step above for the app `Termux` aswell.
-   ![](Screenshot_20250109_202414_Settings.png)
+   - Open `Termux-Boot` for first time, allow any permissions requested.
+   ![](images/Screenshot_20250109_201613_TermuxBoot.png)
+   - Then open `Termux` for first time, allow any permissions requested.
+   ![](images/Screenshot_20250109_203143_Termux.png)
+   - Now in phone's `Settings > Apps` find `Termux-Boot` and then `App battery usage` or `Battery` set to `Unrestricted`.
+   ![](images/Screenshot_20250109_202352_Settings.png)
+   - Now repeat step above for the app `Termux` aswell.
+   ![](images/Screenshot_20250109_202414_Settings.png)
 
 5. Edit your config.json and then this readme to include your own fork.
 

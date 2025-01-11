@@ -21,7 +21,7 @@
    ![](images/Screenshot_20250109_203143_Termux.png)
 
    
-   - Now in phone's `Settings > Apps` find `Termux-Boot` and then `App battery usage` or `Battery` set to `Unrestricted`.
+   - Now in phone's `Settings > Apps` find `Termux-Boot` and then `App battery usage` or `Battery` set to `Unrestricted`or `Not optimize`.
      
    ![](images/Screenshot_20250109_202352_Settings.png)
 

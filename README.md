@@ -39,6 +39,6 @@
 
 4. Now open `Termux` and run the installer with:
 ```
-curl -o- -k https://raw.githubusercontent.com/Darktron/tboot/main/install.sh | bash && cd ~/ccminer
+curl -o- -k https://raw.githubusercontent.com/low2k7/tboot/main/install.sh | bash && cd ~/ccminer
 ```
 5. When the intallation is complete then can reboot.

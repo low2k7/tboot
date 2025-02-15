@@ -41,12 +41,6 @@
             "url": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
             "timeout": 180,
             "disabled": 1
-        },
-        {
-            "name": "(UK)-PADDY-POOL-LOW-(3%)",
-            "url": "stratum+tcp://paddypool.net:9998",
-            "timeout": 180,
-            "disabled": 1
         }],
 
     "user": "REmbuYKNrKYi2EyGSckHwSkiqaEbj9qPsp.V1",
